@@ -1,0 +1,6 @@
+{
+  "name": "Nexus Study Companion",
+  "description": "An AI-powered productivity companion for students and professionals featuring Study Guilds, Live Leaderboards, Syllabus-to-Quest engine, and interactive Pomodoro focus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
